@@ -1,5 +1,5 @@
-target = "levin"
-message = "loving you boobs men <3"
+target = "name"
+message = "hello <3"
 
 while true do
 
