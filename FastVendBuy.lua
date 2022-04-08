@@ -1,3 +1,5 @@
+--note these scripts were made for private servers
+
 tilex = GetLocal().posX/32
 tiley = GetLocal().posY/32
 delay = 130
